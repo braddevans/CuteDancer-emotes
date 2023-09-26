@@ -1,5 +1,5 @@
 # CuteDancer-emotes
-Un-Official Community Made Emotes for CuteDancer v4+
+Un-Official Community Made Emotes for CuteDancer v4+ (alpha)
 
 [Main Project v4 branch](https://github.com/Krysiek/CuteDancer/tree/release/v4)
 ##### Dances form this project go in `Packages/CuteDancer/Runtime/Dances`
