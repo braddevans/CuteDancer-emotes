@@ -76,7 +76,7 @@ MonoBehaviour:
             fileID: 0
             guid: 
             id: e1b356d9ef9393547880a7204f5b012a|Assets/CuteDancer/Build/CuteDancer-VRCMenu.asset
-          prefix: CuteDancer/
+          prefix: CuteDancer
           ResetMePlease2: 0
         prms:
         - parameters:
