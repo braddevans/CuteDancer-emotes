@@ -3,7 +3,7 @@
 
 ### Step 1:
 ##### Create Emote info file 
-##### "info" with no file Extention and no Quotemarks
+##### "info.json" no Quotemarks
 
 ##### Contents should be as follows
 
